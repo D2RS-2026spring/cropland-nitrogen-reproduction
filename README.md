@@ -1,4 +1,4 @@
-# Nature Food Figure 1–3 Reproduction
+<img width="2853" height="1756" alt="image" src="https://github.com/user-attachments/assets/9b51e642-dac3-4259-99fe-85f0a9e603a3" /># Nature Food Figure 1–3 Reproduction
 
 本仓库包含 Nature Food 论文  
 **Optimized agricultural management reduces global cropland nitrogen losses to air and water** (2024) 的复现代码、复现结果图和部分原始数据。
@@ -55,3 +55,9 @@ https://www.nature.com/articles/s43016-024-01076-w
 - 打开对应 `figureX/` 文件夹可找到 R 代码和生成的 `.tiff` 图像  
 - 打开对应 `.xlsx` 或 `.csv` 文件可查看用于复现的原始数据  
 - 可通过 R 运行代码文件生成对应的图像
+  
+---
+
+## 组员贡献补充
+
+- @ll10095：补充仓库文档与可复现性说明，并参与项目整理。
