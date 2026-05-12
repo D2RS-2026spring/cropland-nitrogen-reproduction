@@ -1,0 +1,13 @@
+# 加载绘图包
+library(ggplot2)
+library(sf)
+library(patchwork)
+
+# 设置工作目录
+setwd("C:/Users/86136/cropland-nitrogen-reproduction/figure3")
+
+# 加载数据与绘图对象
+load(".RData")
+
+# 直接导出最终图
+ggsave("figure3.tiff", final_plot, width = 14, height = 10, dpi = 300)
