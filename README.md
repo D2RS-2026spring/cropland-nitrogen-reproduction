@@ -47,7 +47,7 @@ cropland-nitrogen-reproduction/
 │   │   └── Figure2_N_losses.R
 │   │
 │   └── figure3/
-│       └── Figure3R.r_tmp│
+│       └── Figure3R.r_tmp
 ├── result/
 │   ├── figure1/
 │   │   └── Figure1_N.tiff
